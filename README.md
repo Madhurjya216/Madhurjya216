@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhurjya kashyap</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='gif' align='right' width='150'>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhurjya216&label=Profile%20views&color=0e75b6&style=flat" alt="madhurjya216" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhurjya216" alt="madhurjya216" /></a> </p>
@@ -10,6 +8,8 @@
 - 🌱 I’m currently learning **React, Node js, Mongo DB etc..**
 
 - 📫 How to reach me **madhuryakashyap222@gmail.com**
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='gif' align='right' width='300'>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
