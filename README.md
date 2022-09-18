@@ -75,7 +75,7 @@ Languages and Tools:
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='gif' align='left' width='400'>
 
-![](https://activity-graph.herokuapp.com/graph?username=Madhurjyaa216&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=Madhurjya216&theme=react-dark&area=true)
 <!--
 **Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
