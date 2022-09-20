@@ -70,9 +70,6 @@ Languages and Tools:
 <a href="[[https://codepen.io/madhurjya216](https://codepen.io/raj98)](https://codepen.io/raj98)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madhurjya216" height="30" width="40" /></a>
 <a href="[[https://linkedin.com/in/mahurjya kashyap](https://www.linkedin.com/in/madhurjya-kashyap-8a107224a/)](https://www.linkedin.com/in/madhurjya-kashyap-8a107224a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahurjya kashyap" height="30" width="40" /></a> 
 <a href="https://instagram.com/madhurjyakashyap215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhurjyakashyap216" height="30" width="40" /></a>
-[![Linkedin Badge](https://img.shields.io/badge/-Madhurjya-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/madhurjya-kashyap-8a107224a/))
-[![Website Badge](https://img.shields.io/badge/codepen-Madhurjya-green)](https://instagram.com/madhurjyakashyap215)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/20034662/madhurjya-kashyap)
 </p>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='gif' align='left' width='400'>
