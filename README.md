@@ -10,7 +10,7 @@ Full Stack web developer crossover between design and programming has always bee
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Madhurjya216&column=7"/>
   </a>
 </div>
 
@@ -70,6 +70,7 @@ Languages and Tools:
 <a href="https://www.linkedin.com/in/madhurjya-kashyap-8a107224a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://codepen.io/raj98" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  height="30" width="40" /></a>
 <a href="https://instagram.com/madhurjyakashyap215" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
+<a href="https://replit.com/@Madhurjya216" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-20mSDII8tCMMjLauI_g5fsulJs4AWv-Fzg&usqp=CAU"  height="30" width="35" /></a>
 </p>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='gif' align='left' width='400'>
